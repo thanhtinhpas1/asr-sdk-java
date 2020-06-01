@@ -6,7 +6,7 @@
 
 ```xml
 <dependency>
-  <groupId>com.vietspeech</groupId>
+  <groupId>com.asr.vietspeech</groupId>
   <artifactId>asr-vietspeech</artifactId>
   <version>0.0.1</version>
 </dependency>

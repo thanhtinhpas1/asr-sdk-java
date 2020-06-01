@@ -56,6 +56,7 @@ public class SpeechToText {
 
     private String getMessage(HttpEntity entity) throws IOException {
         String jsonString = EntityUtils.toString(entity);
+        System.out.println("ASR Response: " + jsonString);
         if ("".equals(jsonString) || jsonString.length() == 0) return jsonString;
         Gson gson = new Gson();
         try {

@@ -5,7 +5,7 @@ plugins {
 apply plugin: 'maven'
 apply plugin: 'eclipse'
 
-group 'vietspeech'
+group 'com.asr.vietspeech'
 version '0.0.1'
 
 repositories {
