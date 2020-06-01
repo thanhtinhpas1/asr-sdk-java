@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7c3c6fa-ff7f-40db-9053-fb3d24e5c4fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../build.gradle" afterDir="false" />
+    <list default="true" id="ae8a1917-2b61-438b-bb94-8e73e835a136" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MavenSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/process.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speech-to-text/src/main/java/com/ibm/watson/speech_to_text/v1/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../speech-to-text/src/main/java/com/ibm/watson/speech_to_text/v1/package-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,13 +14,20 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1cioNbxfQB5I2ZlSLkrbjBKf6eX" />
+  <component name="ProjectId" id="1cioRfPqPeKmDBMQfMStPMyR5qC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,22 +38,43 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../java-sdk/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HCMUS-Thesis\Source\sdk-sample\java-sdk\maven-sample\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MavenSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MavenSample" />
+      <module name="maven-sample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MavenSample" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d7c3c6fa-ff7f-40db-9053-fb3d24e5c4fb" name="Default Changelist" comment="" />
-      <created>1591020735541</created>
+      <changelist id="ae8a1917-2b61-438b-bb94-8e73e835a136" name="Default Changelist" comment="" />
+      <created>1591020767090</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591020735541</updated>
-      <workItem from="1591020737141" duration="31000" />
+      <updated>1591020767090</updated>
+      <workItem from="1591020771594" duration="2184000" />
+      <workItem from="1591023048836" duration="60000" />
+      <workItem from="1591023329887" duration="6000" />
     </task>
     <servers />
   </component>
@@ -53,9 +82,37 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="91" y="0" key="new project wizard" timestamp="1591020766966">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1591021532378">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1591020766966" />
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1591021532378" />
+    <state x="471" y="51" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1591022750110">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="51" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.680@0.0.1280.680" timestamp="1591022750110" />
+    <state x="348" y="82" key="FileChooserDialogImpl" timestamp="1591022743535">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591022743535" />
+    <state width="1237" height="194" key="GridCell.Tab.0.bottom" timestamp="1591022956612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591022956612" />
+    <state width="1237" height="194" key="GridCell.Tab.0.center" timestamp="1591022956612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591022956612" />
+    <state width="1237" height="194" key="GridCell.Tab.0.left" timestamp="1591022956612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591022956612" />
+    <state width="1237" height="194" key="GridCell.Tab.0.right" timestamp="1591022956612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591022956612" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1591022883585">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1591022883585" />
   </component>
 </project>

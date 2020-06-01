@@ -1,34 +1,11 @@
-# Speech to Text
-
-## Installation
-
-##### Maven
-
-```xml
-<dependency>
-  <groupId>com.asr.vietspeech</groupId>
-  <artifactId>asr-vietspeech</artifactId>
-  <version>0.0.1</version>
-</dependency>
-```
-
-##### Gradle
-
-```gradle
-'com.vietspeech:asr-vietspeech:0.0.1'
-```
-
-## Usage
-
-Use the [Speech to Text][speech_to_text] service to recognize the text from a .wav file.
-
-```java
+import java.io.File;
+import java.io.IOException;
 
 public class MavenSample {
     public static void main(String[] args) {
         File file = new File("src/main/resources/process.wav");
         if (file.canRead()) {
-            String token = "replace token here";
+            String token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNjNDExOWMwLWExYzEtMTFlYS1iOTdjLTFiOTdlMzMzNTc2NCIsImlhdCI6MTU5MDc2NjYzNn0.K36Axz4FnuORA9jGr_6cs0CjV2vVAI9DZLxe5sjNb7A";
             int timeout = 10000;
             int sampleRate = 16000;
             int maxSize = 51200;
@@ -48,7 +25,3 @@ public class MavenSample {
         }
     }
 }
-
-```
-
-[speech_to_text]: http://asr.vietspeech.com:3200/docs
