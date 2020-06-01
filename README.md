@@ -53,5 +53,5 @@ public class MavenSample {
 }
 
 ```
-[jar]: https://github.com/thanhtinhpas1/asr-sdk-java/asr-vietspeech.jar
+[jar]: https://raw.githubusercontent.com/thanhtinhpas1/asr-sdk-java/master/asr-vietspeech.jar
 [speech_to_text]: http://asr.vietspeech.com:3200/docs
