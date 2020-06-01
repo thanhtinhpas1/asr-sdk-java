@@ -17,7 +17,10 @@
 ```gradle
 'com.vietspeech:asr-vietspeech:0.0.1'
 ```
+##### JAR
 
+Download the jar with dependencies [here][jar].
+[here][https://github.com/thanhtinhpas1/asr-sdk-java/asr-vietspeech.jar]
 ## Usage
 
 Use the [Speech to Text][speech_to_text] service to recognize the text from a .wav file.
