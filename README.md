@@ -17,6 +17,9 @@
 ```gradle
 'com.vietspeech:asr-vietspeech:0.0.1'
 ```
+##### JAR
+
+Download the jar with dependencies [here][jar].
 
 ## Usage
 
@@ -50,5 +53,5 @@ public class MavenSample {
 }
 
 ```
-
+[jar]: https://github.com/thanhtinhpas1/asr-sdk-java/asr-vietspeech.jar
 [speech_to_text]: http://asr.vietspeech.com:3200/docs
